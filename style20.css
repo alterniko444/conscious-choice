@@ -1,0 +1,89 @@
+.two{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(starsss.jpg);
+    background-position: center;
+    overflow: hidden;
+}
+body{
+    margin:0;
+    padding:0;
+}
+.logo{
+    width: 140px;
+}
+nav{
+    padding:10px;
+    display: flex;
+    align-items: center;
+}
+nav button{
+    border-radius: 55%;
+    background-color: peachpuff;
+    height: 50px;
+    width: 60px;
+    border-color: palevioletred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: purple;
+}
+.top{
+    display:inline-block;
+    list-style-type: none;
+    margin: 10px 15px;
+    margin-left: auto;
+    word-spacing: 50px;
+    color: peachpuff;
+}
+.new{
+    display: inline-block;
+}
+.yoyo{
+    color: white;
+    font-style: italic;
+    padding:5%;
+    font-size: 25px;
+}
+
+.yo{
+    text-align: center;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:palegoldenrod;
+    margin-bottom: 10px;
+}
+
+.b2{
+    width:300px;
+    height:30px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-left:485px;
+    margin-bottom: 10px;
+    display: block;
+}
+.heyb1{
+    width:300px;
+    height:30px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-top:10px;
+    margin-left:480px;
+    display: block;
+}
+.hey3{
+    text-align: center;
+    color:yellow;
+    margin-top:10px;
+}
+.btn{
+    width:80px;
+    height:30px;
+    border-radius: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    background-color: palegoldenrod;
+    margin-left:600px;
+    margin-top: 10px;
+    display: block;
+}

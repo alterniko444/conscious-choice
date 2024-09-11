@@ -1,0 +1,106 @@
+*{
+    margin:0;
+    padding:0;
+    font-family: 'Poppins';
+}
+.five{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(circle.jpg);
+    background-position: center;
+    background-size: contain;
+    overflow: hidden;
+}
+.logo{
+    width: 140px;
+}
+nav{
+    padding:10px;
+    display: flex;
+    align-items: center;
+}
+nav button{
+    border-radius: 50%;
+    background-color: peachpuff;
+    height: 50px;
+    width: 55px;
+    border-color: palevioletred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: purple;
+}
+.top{
+    display:inline-block;
+    margin:10px 15px;
+    list-style-type: none;
+    margin-left: auto;
+    word-spacing: 20px;
+    color: peachpuff;
+}
+.new{
+    display: inline-block;
+}
+.yoyo{
+    color: white;
+    font-style: italic;
+    padding:5%;
+    font-size: 25px;
+}
+.hello{
+    text-align: center;
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+.b1{
+    height:50px;
+    width: 200px;
+    display: block;
+    margin: auto;
+    border-radius: 500%;
+    background-color: peachpuff;
+    border-color: mediumslateblue;
+    color: rgb(149, 135, 22);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.b2{
+        height:50px;
+        width: 200px;
+        display: block;
+        margin: auto;
+        margin-top:50px;
+        border-radius: 500%;
+        background-color: peachpuff;
+        border-color: pink;
+        color: purple;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        font-size: 15px;
+}
+.b3{
+    height:50px;
+    width: 200px;
+    margin: auto;
+    margin-top: 50px;
+    display: block;
+    border-radius: 500%;
+    background-color: peachpuff;
+    border-color: yellow;
+    color: orchid;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+a{
+    text-decoration: none;
+    color: peachpuff;
+}
+.btn{
+    border-radius: 50%;
+    background-color: peachpuff;
+    height: 50px;
+    width: 55px;
+    border-color: palevioletred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: purple;
+}

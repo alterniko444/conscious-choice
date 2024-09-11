@@ -1,0 +1,76 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+.one{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(hello.jpg);
+    background-position: left;
+    padding: 10px 5%;
+    overflow: hidden;
+}
+.logo{
+    width: 140px;
+}
+nav{
+    padding:10px 0;
+    display: flex;
+    align-items: center;
+}
+nav button{
+    border-radius: 50%;
+    background-color: peachpuff;
+    height: 50px;
+    width: 50px;
+    border-color: palevioletred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: purple;
+}
+.top{
+    display:inline-block;
+    list-style-type: none;
+    margin: 10 px 15px;
+    margin-left: auto;
+    word-spacing: 50px;
+    color: peachpuff;
+}
+.new{
+    display: inline-block;
+}
+
+.yoyo{
+    color: white;
+    font-style: italic;
+    padding:5%;
+    font-size: 25px;
+}
+
+.hey{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: palegoldenrod;
+    font-style: bold ;
+    font-size: 25px;
+    
+}
+.hii{
+    padding:50px;
+    color:whitesmoke;
+    word-spacing: 10px;
+    margin-left: 10px;
+}
+.b1{
+    border-radius: 40%;
+    height: 50px;
+    width:200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: palegoldenrod;
+    color:purple;
+    border-color: palevioletred;
+    align-items: center;
+    font-size: 15px;
+    margin-left: 100px;
+}

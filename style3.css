@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+.three{
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(circle.jpg);
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
+.logo{
+    width: 140px;
+}
+nav{
+    padding:10px 10%;
+    display: flex;
+    align-items: center;
+}
+nav button{
+    border-radius: 50%;
+    background-color: peachpuff;
+    height: 50px;
+    width: 55px;
+    border-color: palevioletred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: purple;
+}
+.top{
+    display:inline-block;
+    list-style-type: none;
+    margin: 10 px 15px;
+    margin-left: auto;
+    word-spacing: 50px;
+    color: peachpuff;
+}
+.new{
+    display: inline-block;
+}
+.yoyo{
+    color: white;
+    font-style: italic;
+    padding:5%;
+    font-size: 25px;
+}
+.hey1{
+    text-align: center;
+    font-size: 30px;
+    color: palegoldenrod;
+    margin-top:10px;
+
+}
+.hey2{
+    text-align: center;
+    color: yellow;
+    margin-top:10px;
+
+}
+.hey3{
+    text-align: center;
+    color:yellow;
+    margin-top:10px;
+
+}
+.heyb1{
+    width:300px;
+    height:30px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-top:10px;
+    margin-left:480px;
+    display: block;
+}
+.heyb2{
+    width:300px;
+    height:30px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+    margin-top:10px;
+    margin-left:480px;
+    display: block;
+}
+.hello1{
+    padding:250px;
+    text-align: center;
+    padding-top: 100px;
+}
+.b1{
+    border-radius: 50%;
+    background-color: peachpuff;
+    height: 50px;
+    width: 100px;
+    border-color: palevioletred;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    color: purple;
+    display: block;
+    margin-top: 20px;
+    margin-left: 590px;
+}
